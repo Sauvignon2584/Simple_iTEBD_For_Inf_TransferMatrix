@@ -5,7 +5,7 @@ Using TransferTensors method with iTEBD to compute PartitionFunction PerSites On
 Seeking For More Initial Version codes of TensorNetwork :
 - https://www.tensors.net/
 
-Before trying to understanding what tensorgraph really do,\
+Before trying to unders what tensorgraph actually do,\
 We strongly recommand you to Read this Paper & Memorize All the Graphs on
 - https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.250602
 
