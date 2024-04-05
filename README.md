@@ -1,11 +1,15 @@
 # Simple_iTEBD_For_Inf_TransferMatrix
-Simple iTEBD For Infinite Transfer Matrix\
+Simple iTEBD For Infinite Transfer Matrix, \
 Using TransferTensors method with iTEBD to compute PartitionFunction PerSites On 2D-Infinite Lattice System 
 
-Seeking For More Initial Version codes of TensorNetwork:\
+Seeking For More Initial Version codes of TensorNetwork :
 - https://www.tensors.net/
 
-To under stand this File, Papers ones can refer to:
+Before trying to understanding what tensorgraph really do,\
+We strongly recommand you to Read this Paper & Memorize All the Graphs on
+- https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.250602
+
+To Know more of TensorNetwork methods applied on Partition Function, Papers ones can refer to :
 
 - Coarse-Graining RG: 
     * TRG, Levin & Nave, PRL (2007)
