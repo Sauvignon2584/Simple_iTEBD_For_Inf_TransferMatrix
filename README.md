@@ -45,7 +45,7 @@ Graphs should be Pointed out:
 
 
  - From Tensor.net (Full Indice Notation for iTEBD):  
-   Check more detail on PDF Notation_for_iTEBD 
+   Check more detail on PDF Notation_iTEBD 
 
    
  
