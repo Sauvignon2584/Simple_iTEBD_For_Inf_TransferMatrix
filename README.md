@@ -11,7 +11,8 @@ We strongly recommand you to Read this Paper & Memorize All the Graphs on
 - https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.250602 (b)
  
 To Know more of TensorNetwork methods applied on Partition Function, Papers ones can refer to :\
-   ( RG is For Physists.... )
+  
+   ( RG designed For Physists.... )
 - Coarse-Graining RG: 
     * TRG, Levin & Nave, PRL (2007)
     * BTRG, Daiki Adachi, Tsuyoshi Okubo, and Synge Todo, PRB(2022)
