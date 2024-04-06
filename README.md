@@ -10,8 +10,8 @@ We strongly recommand you to Read this Paper & Memorize All the Graphs on
 - https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.155117 (a)
 - https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.250602 (b)
  
-To Know more of TensorNetwork methods applied on Partition Function, Papers ones can refer to : ( RG designed For Physists.... )
-- Coarse-Graining RG: 
+To Know more of TensorNetwork methods applied on Partition Function, Papers ones can refer to :
+- Coarse-Graining RG:  ( RG designed For Physists.... )
     * TRG, Levin & Nave, PRL (2007)
     * BTRG, Daiki Adachi, Tsuyoshi Okubo, and Synge Todo, PRB(2022)
     * SRG/HOTRG/HOSRG, Z. Y. Xie, et. al. PRL (2009), PRB (2012), PRB (2012)
@@ -32,16 +32,20 @@ To Know more of TensorNetwork methods applied on Partition Function, Papers ones
 
 Graphs should be Pointed out:
 
- - From (a): 
+ - From (a): < \psi_L| T |\psi_R > / < \psi_L | \psi_R >
 
    ![微信图片_20240406102224](https://github.com/Sauvignon2584/Simple_iTEBD_For_Inf_TransferMatrix/assets/112241604/5557ae6b-cacd-4273-a54b-2af74f6e3927)
 
 
    
- - From (b):
+ - From (b): 两种转移矩阵的最终收缩
 
    ![微信图片_20240406101251](https://github.com/Sauvignon2584/Simple_iTEBD_For_Inf_TransferMatrix/assets/112241604/e38a676c-775a-4e96-9151-ea7e3f2cdb92)
 
+
+
+ - From Tensor.net (Full Indice Notation for iTEBD):  
+   Check more detail on PDF Notation_for_iTEBD 
 
    
  
