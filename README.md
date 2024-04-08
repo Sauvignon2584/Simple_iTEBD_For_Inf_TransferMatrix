@@ -5,7 +5,7 @@ Using Transfer Matrix method with iTEBD to exactly compute PartitionFunction Per
 Seeking For More Initial Version codes of TensorNetwork :
 - https://www.tensors.net/
 
-Before trying to under what tensorgraphs on codes actually do,\
+Before trying to under what tensorgraphs behind codes actually do,\
 We strongly recommand you to Read this Paper & Memorize All the Graphs on
 - https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.155117 (a)
 - https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.250602 (b)
