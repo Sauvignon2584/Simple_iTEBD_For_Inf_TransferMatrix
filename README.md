@@ -30,7 +30,7 @@ To Know more of TensorNetwork methods applied on Partition Function, Papers ones
     * Fixed-point CTMRG: Fishman, et. al. PRB (2018)
 
 
-Graphs should be Pointed out:
+Key Graphs should be Pointed out:
 
  - From (a): < \psi_L| T |\psi_R > / < \psi_L | \psi_R >
 
